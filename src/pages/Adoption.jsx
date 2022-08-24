@@ -49,8 +49,10 @@ const Adoption = () => {
       .catch(error => console.error(error))
   }
 
+
   console.log(petForm)
 
+  
   return (
     <>
       <h1>Adoption</h1>
